@@ -1,0 +1,9 @@
+@media (max-width: 480px) {
+
+    .navbar-button {
+        padding: 0;
+        height: 30px;
+        width: 90px;
+    }
+
+}
